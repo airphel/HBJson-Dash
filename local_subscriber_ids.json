@@ -554,7 +554,7 @@
 {"id":"1000272","callsign":"29CT067","fname":"OMCI1, Bundoran","name":"OMCI","city":"Bundoran","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000273","callsign":"29CT067","fname":"Ollie, Bundoran","name":"Ollie","city":"Bundoran","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000301","callsign":"29ICB120","fname":"Brian, Dromahair","name":"Brian","city":"Dromahair","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
-{"id":"1000305","callsign":"29ICB051","fname":"Chris, Carrick-On-Shannon","name":"Chris","city":"Carrick-On-Shannon","state":"272","country":"FREEDMR.IRELAND":"FREEDMR.DIGITAL"},
+{"id":"1000305","callsign":"29ICB051","fname":"Chris, Carrick-On-Shannon","name":"Chris","city":"Carrick-On-Shannon","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000306","callsign":"29IOP076","fname":"Les, Dromahair","name":"Les","city":"Dromahair","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"1000307","callsign":"29SD029","fname":"Michael, Killybegs","name":"Michael","city":"Killybegs","state":"272","country":"Ireland","remarks":"FREEDMR.IRELAND"},
 {"id":"4242420","callsign":"BALISE42","fname":"TG42","name":"TG42","city":"Loire","state":"42","country":"France","remarks":"42EME"},
