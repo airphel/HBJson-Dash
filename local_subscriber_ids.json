@@ -1,4 +1,4 @@
-{"count": 20230523,"results": [
+{"count": 20230106,"results": [
 {"id":"302911","callsign":"RADIO1_ID","fname":"RadioID","name":"RadioID","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9005404","callsign":"FR_DMR1","fname":"Bridge","name":"Bridge","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9008888","callsign":"RFR_NODE1","fname":"Node","name":"Node","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
@@ -552,6 +552,7 @@
 {"id":"9570976","callsign":"BANDIT","fname":"Markus, Troestau","name":"Markus","city":"Troestau","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"959901","callsign":"CB0FBG","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9618010","callsign":"DG3","fname":"Daniel, Brand-Erbisdorf","name":"Daniel","city":"Brand-Erbisdorf","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
+{"id":"9864683","callsign":"13RF814","fname":"Enrico, Hildburghausen","name":"Enrico","city":"Hildburghausen","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9872493","callsign":"13HN5003","fname":"Sebastian, Neuhaus am Rennweg","name":"Sebastian","city":"Neuhaus am Rennsteg","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9992623","callsign":"BAKE","fname":"Info-Bake NDS/HB","name":"Info-Bake NDS/HB","city":"Bremen","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9999999","callsign":"TEST-ID","fname":"Test-ID","name":"Test-ID","city":"WorldWide","state":"262","country":"WorldWide","remarks":"FREEDMR.DIGITAL"},
